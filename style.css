@@ -1,0 +1,124 @@
+.div1{
+    /* text-align: center; */
+    padding-left: 20px;
+    padding-top: 20px;
+    border: 1px solid;
+    background-image: linear-gradient(to bottom, rgb(225, 255, 191), rgb(225, 255, 191));
+    box-shadow: 5px 10px 18px rgb(158, 158, 158);
+    width: 46%;
+    border-radius: 15px;
+    position: relative;
+    height: 100%;
+}
+.scl{
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.lbl{
+    /* margin-right: 120px; */
+    font-weight: bold;
+    font-size: 20px;
+}
+.b1{
+    background-color: rgb(71, 158, 71);
+    color: aliceblue;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 20px;
+    /* margin-left: 230px; */
+    position: relative;
+    /* position: absolute;
+    left: 40%; */
+    /* bottom: 20%; */
+    /* top: 10%; */
+}
+.b1:hover{
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.b2:hover{
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.b3:hover{
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.b2{
+    color: aliceblue;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    /* margin-left: 230px; */
+    position: relative;
+    /* position: absolute;
+    left: 40%; */
+}
+.bg2:hover{
+    background-color: rgb(152, 154, 155);
+    border-radius: 20px;
+    font-weight: bold;
+}
+.b3{
+    color: aliceblue;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    position: relative;
+    margin-left: 22px;
+    margin-right: 22px;
+}
+
+.bg3{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    font-weight: bold;
+    transition: 1s;
+}
+.bg3:hover{
+    background-color: rgb(94, 93, 93);
+    border-radius: 10px;
+    font-weight: bold;
+    transition: 0.5s;  
+    color: aliceblue; 
+}
+.h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* text-align: center; */
+    width: 35%;
+    text-shadow: 2px 2px 4px #5e5c5c;
+}
+.ipt{
+    padding: 11px;
+    font-size: 20px;
+    font-weight: bold;
+    /* padding-left: 85px;
+    padding-right: 85px; */
+    width: 100%;
+}
+.icon{
+    position: absolute;
+    left: 5px;
+}
+.icon2{
+    position: absolute;
+    left: 10px;
+}
+.abc{
+    text-align: right;
+    margin-left: 57%;
+    font-weight: bold;
+}
